@@ -1,2 +1,13 @@
 # Number1
-none
+
+
+if(){
+}else{
+}
+
+while(){
+}
+
+
+for(){
+}
